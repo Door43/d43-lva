@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lva:home|Door43 (lva)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lva|d43-lva repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lva/archive/master.zip|d43-lva.zip]]
+
+**Recent Changes**
+{{changes>ns = lva}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lva|Ethnologue data]]
+
